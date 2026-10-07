@@ -1,4 +1,4 @@
-# DocGenie
+# Company AI Brain
 
 An internal multi-agent document chatbot platform for Moneyboxx Finance.
 
